@@ -26,7 +26,7 @@ When a player enters the family for the first time, it's entered into the family
 represented by the lightning bolt forming inside of the cloud.
 
 When lightning strikes the ground, it's equivalent to a player being connected to one of the Loaders.
-Because Static Families are stateful, the Loaders of the family will often have differnt states from eachother because the individual Loader states have diverged since their creation.
+Because Static Families are stateful, the Loaders of the family will often have different states from eachother because the individual Loader states have diverged since their creation.
 Similarally when a lightning bolt strikes the ground, it might hit different things, it may hit a tree, or the top of a building.
 
 Player residences can be thought of as if someone setup a lightning rod outside.
